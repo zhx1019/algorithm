@@ -63,7 +63,6 @@ public class HeapSort {
 //		}
 		
 //		size = size + 1;
-//		System.out.println(size);
 		for(int i = 0; i < a.length; i++)
 		{
 			v[i] = hs.deleteMin();
